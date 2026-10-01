@@ -14,7 +14,7 @@
     "@tstv/eslint-config": "^4.0.0",
     "@tstv/tsconfig-common": "^3.7.0",
     "@types/node": "^26.0.1",
-    "@vitest/coverage-v8": "^4.0.6",
+    "@vitest/coverage-v8": "^5.0.2",
     "cross-env": "^10.0.0",
     "dependency-cruiser": "^18.0.0",
     "eslint": "^10.0.1",
